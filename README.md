@@ -1,4 +1,4 @@
-# stopwatch
+## Pomodoro Clock
 
 A new Flutter project.
 
